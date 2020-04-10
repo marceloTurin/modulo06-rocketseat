@@ -17,7 +17,8 @@ import {
   Name,
   Bio,
   ProfileButton,
-  ProfileButtonText
+  ProfileButtonText,
+  View
 } from './styles';
 
 
